@@ -80,3 +80,12 @@ The notebook merges this dataset with the athlete-event data using:
 
 ```python
 df = df.merge(region_df, on='NOC', how='left')
+
+🛠️ Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Jupyter Notebook
